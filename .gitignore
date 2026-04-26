@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Office temp files
+.~*.docx
+.~*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Local data
+tasks.db
+
+# Kimi skill package (source is tracked, package file is not)
+*.skill
