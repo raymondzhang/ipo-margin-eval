@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Excel temp files
+.~*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Binary work files — do not commit PDFs, Excel, Word to git
+*.pdf
+*.xlsx
+*.docx
+*.pptx
+
+# Data extraction artifacts
+extracted_data.json

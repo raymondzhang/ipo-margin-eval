@@ -1,0 +1,99 @@
+{
+  "06656": {
+    "stock_name": "思格新能",
+    "total_score": 70,
+    "base_score": 70,
+    "classification": "非白名单",
+    "dimension_scores": {
+      "profitability": {"score": 10, "max": 30, "rationale": "成立不到4年，仅2024-2025年盈利"},
+      "allocation": {"score": 10, "max": 10, "rationale": "公开发售10%，国际配售90%，机制B"},
+      "cornerstone": {"score": 15, "max": 15, "rationale": "19家基石含淡马锡/高盛/高瓴/UBS/CPE/景林，认购2.8亿美元占49.8%"},
+      "pricing": {"score": 15, "max": 20, "rationale": "PE约27x，高成长储能公司"},
+      "stabilization": {"score": 10, "max": 10, "rationale": "绿鞋15%，中信里昂稳价"},
+      "macro_break_rate": {"score": 15, "max": 15, "rationale": "Q1破发率约9-10%"},
+      "macro_hsi": {"score": 5, "max": 10, "rationale": "3月恒指跌6.92%"}
+    }
+  },
+  "00068": {
+    "stock_name": "群核科技",
+    "total_score": 60,
+    "base_score": 60,
+    "classification": "非白名单",
+    "dimension_scores": {
+      "profitability": {"score": 10, "max": 30, "rationale": "年营收8.2亿，经调整净利仅5713万"},
+      "allocation": {"score": 10, "max": 10, "rationale": "公开发售10%，国际配售90%，机制B"},
+      "cornerstone": {"score": 10, "max": 15, "rationale": "9家基石含泰康/阳光/广发/Mirae/禾赛，认购5800万美元占37.14%"},
+      "pricing": {"score": 10, "max": 20, "rationale": "SaaS公司PE极高"},
+      "stabilization": {"score": 10, "max": 10, "rationale": "绿鞋15%"},
+      "macro_break_rate": {"score": 15, "max": 15, "rationale": "Q1破发率约9-10%"},
+      "macro_hsi": {"score": 5, "max": 10, "rationale": "3月恒指跌6.92%"}
+    }
+  },
+  "03277": {
+    "stock_name": "长光辰芯",
+    "total_score": 85,
+    "base_score": 85,
+    "classification": "白名单",
+    "dimension_scores": {
+      "profitability": {"score": 30, "max": 30, "rationale": "2023-2025年净利润1.70→2.93亿，连续三年盈利增长"},
+      "allocation": {"score": 10, "max": 10, "rationale": "公开发售10%，国际配售90%，机制B"},
+      "cornerstone": {"score": 15, "max": 15, "rationale": "24家基石含CPE/高瓴/UBS/博裕/易方达/华夏/盘京，认购1.66亿美元占55%"},
+      "pricing": {"score": 10, "max": 20, "rationale": "PE约59x，高端CIS半导体"},
+      "stabilization": {"score": 10, "max": 10, "rationale": "绿鞋15%，中信里昂稳价"},
+      "macro_break_rate": {"score": 15, "max": 15, "rationale": "Q1破发率约9-10%"},
+      "macro_hsi": {"score": 5, "max": 10, "rationale": "3月恒指跌6.92%"}
+    }
+  },
+  "02476": {
+    "stock_name": "胜宏科技",
+    "total_score": 95,
+    "base_score": 95,
+    "classification": "白名单",
+    "dimension_scores": {
+      "profitability": {"score": 30, "max": 30, "rationale": "A股上市公司，多年连续盈利，AI算力PCB龙头"},
+      "allocation": {"score": 10, "max": 10, "rationale": "公开发售10%，国际配售90%"},
+      "cornerstone": {"score": 15, "max": 15, "rationale": "38家基石含CPE/Janchor/云锋/大摩/高瓴/李东生/叶国富/Jump Trading，认购9.97亿美元占55%"},
+      "pricing": {"score": 20, "max": 20, "rationale": "H股较A股折让47%，静态PE约22.9x低于行业平均"},
+      "stabilization": {"score": 10, "max": 10, "rationale": "发售量调整权+绿鞋15%"},
+      "macro_break_rate": {"score": 15, "max": 15, "rationale": "Q1破发率约9-10%"},
+      "macro_hsi": {"score": 5, "max": 10, "rationale": "3月恒指跌6.92%"}
+    }
+  },
+  "03296": {
+    "stock_name": "华勤技术",
+    "total_score": 95,
+    "base_score": 95,
+    "classification": "白名单",
+    "dimension_scores": {
+      "profitability": {"score": 30, "max": 30, "rationale": "A股上市公司，2023-2025年净利润26.57→41.32亿，连续增长"},
+      "allocation": {"score": 10, "max": 10, "rationale": "公开发售10%，国际配售90%"},
+      "cornerstone": {"score": 15, "max": 15, "rationale": "18家基石含JPM/UBS/高毅/泰康/小米/豪威/胜宏/清华教育基金，认购2.9亿美元占50%"},
+      "pricing": {"score": 20, "max": 20, "rationale": "H股较A股折让27%，静态PE约20x接近行业平均"},
+      "stabilization": {"score": 10, "max": 10, "rationale": "绿鞋15%"},
+      "macro_break_rate": {"score": 15, "max": 15, "rationale": "Q1破发率约9-10%"},
+      "macro_hsi": {"score": 5, "max": 10, "rationale": "3月恒指跌6.92%"}
+    }
+  },
+  "02493": {
+    "stock_name": "迈威生物-B",
+    "total_score": 50,
+    "base_score": 50,
+    "classification": "黑名单",
+    "dimension_scores": {
+      "profitability": {"score": 0, "max": 30, "rationale": "18A未盈利生物科技公司，累计亏损57亿+，经营现金流持续为负"},
+      "allocation": {"score": 10, "max": 10, "rationale": "机制B，公开发售10%，国际配售90%"},
+      "cornerstone": {"score": 10, "max": 15, "rationale": "6家基石含君实/药明/桂林三金3家医药上市公司，认购5300万美元占30.19%"},
+      "pricing": {"score": 10, "max": 20, "rationale": "18A无静态PE，H股较A股折让32.5%，下限定价"},
+      "stabilization": {"score": 0, "max": 10, "rationale": "无发售量调整权，无绿鞋"},
+      "macro_break_rate": {"score": 15, "max": 15, "rationale": "Q1破发率约9-10%"},
+      "macro_hsi": {"score": 5, "max": 10, "rationale": "3月恒指跌6.92%"}
+    }
+  },
+  "meta": {
+    "backtest_period": "2026年4月",
+    "scoring_date": "2026-04-27",
+    "scorer": "Kimi Code CLI",
+    "scoring_method": "严格基于ipo-scoring框架7维度100分制",
+    "whitelist_threshold": 80
+  }
+}
