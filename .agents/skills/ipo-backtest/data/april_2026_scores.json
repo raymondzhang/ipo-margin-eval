@@ -1,9 +1,9 @@
 {
   "06656": {
     "stock_name": "思格新能",
-    "total_score": 70,
     "base_score": 70,
-    "classification": "非白名单",
+    "total_score": 80,
+    "classification": "灰名单",
     "dimension_scores": {
       "profitability": {"score": 10, "max": 30, "rationale": "成立不到4年，仅2024-2025年盈利"},
       "allocation": {"score": 10, "max": 10, "rationale": "公开发售10%，国际配售90%，机制B"},
@@ -16,9 +16,9 @@
   },
   "00068": {
     "stock_name": "群核科技",
-    "total_score": 60,
     "base_score": 60,
-    "classification": "非白名单",
+    "total_score": 70,
+    "classification": "灰名单",
     "dimension_scores": {
       "profitability": {"score": 10, "max": 30, "rationale": "年营收8.2亿，经调整净利仅5713万"},
       "allocation": {"score": 10, "max": 10, "rationale": "公开发售10%，国际配售90%，机制B"},
@@ -31,8 +31,8 @@
   },
   "03277": {
     "stock_name": "长光辰芯",
-    "total_score": 85,
     "base_score": 85,
+    "total_score": 95,
     "classification": "白名单",
     "dimension_scores": {
       "profitability": {"score": 30, "max": 30, "rationale": "2023-2025年净利润1.70→2.93亿，连续三年盈利增长"},
@@ -46,8 +46,8 @@
   },
   "02476": {
     "stock_name": "胜宏科技",
-    "total_score": 95,
     "base_score": 95,
+    "total_score": 105,
     "classification": "白名单",
     "dimension_scores": {
       "profitability": {"score": 30, "max": 30, "rationale": "A股上市公司，多年连续盈利，AI算力PCB龙头"},
@@ -61,8 +61,8 @@
   },
   "03296": {
     "stock_name": "华勤技术",
-    "total_score": 95,
     "base_score": 95,
+    "total_score": 105,
     "classification": "白名单",
     "dimension_scores": {
       "profitability": {"score": 30, "max": 30, "rationale": "A股上市公司，2023-2025年净利润26.57→41.32亿，连续增长"},
@@ -76,8 +76,8 @@
   },
   "02493": {
     "stock_name": "迈威生物-B",
-    "total_score": 50,
     "base_score": 50,
+    "total_score": 50,
     "classification": "黑名单",
     "dimension_scores": {
       "profitability": {"score": 0, "max": 30, "rationale": "18A未盈利生物科技公司，累计亏损57亿+，经营现金流持续为负"},
@@ -93,7 +93,7 @@
     "backtest_period": "2026年4月",
     "scoring_date": "2026-04-27",
     "scorer": "Kimi Code CLI",
-    "scoring_method": "严格基于ipo-scoring框架7维度100分制",
+    "scoring_method": "严格基于ipo-scoring框架7维度110分制（基础分100+稳价10）",
     "whitelist_threshold": 80
   }
 }
