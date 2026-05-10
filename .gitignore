@@ -1,25 +1,22 @@
 # macOS
 .DS_Store
 
+# Excel temp files
+.~*.xlsx
+
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Office temp files
-.~*.docx
-.~*.xlsx
+*.pyc
 
 # IDE
 .vscode/
 .idea/
 
-# Logs
-logs/
-*.log
+# Binary work files — do not commit PDFs, Excel, Word to git
+*.pdf
+*.xlsx
+*.docx
+*.pptx
 
-# Local data
-tasks.db
-
-# Kimi skill package (source is tracked, package file is not)
-*.skill
+# Data extraction artifacts
+extracted_data.json
