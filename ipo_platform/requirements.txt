@@ -1,0 +1,26 @@
+# 港股IPO数据平台依赖
+
+# 核心框架
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# 数据与数据库
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 爬虫与HTTP
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# 调度
+apscheduler>=3.10.0
+
+# PDF解析（已有基础）
+PyMuPDF>=1.23.0
+python-docx>=0.8.11
+
+# 数据接口（可选）
+tushare>=1.2.89
+
+# 开发辅助
+python-dotenv>=1.0.0
